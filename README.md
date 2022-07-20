@@ -16,6 +16,8 @@
 <img width="auto" height="30px" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
 <img width="auto" height="30px" src="https://www.svgrepo.com/show/117653/sql-file-format.svg">
 <img width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+<br/>
+<img width="auto" height="30px" title="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 
 **Contact:**
 <br>

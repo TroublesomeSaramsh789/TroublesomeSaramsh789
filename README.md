@@ -6,18 +6,18 @@
 
  **Here are a few technologies that I’ve been working with:**
  <br>
- <img width="auto" height="30px" src="https://banner2.cleanpng.com/20180627/wop/kisspng-web-development-html-css-design-and-build-web-s-berlin-5b3339eb3a1a23.231863701530083819238.jpg">
- <img width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
-<img width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
-<img width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-<img width="auto" height="30px" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
-<img width="auto" height="30px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true">
-<img width="auto" height="30px" src="https://redux.js.org/img/redux-logo-landscape.png">
-<img width="auto" height="30px" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
-<img width="auto" height="30px" src="https://www.svgrepo.com/show/117653/sql-file-format.svg">
-<img width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+ <img title="HTML & CSS" width="auto" height="30px" src="https://banner2.cleanpng.com/20180627/wop/kisspng-web-development-html-css-design-and-build-web-s-berlin-5b3339eb3a1a23.231863701530083819238.jpg">
+ <img title="SASS" width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
+<img title="JavaScript" width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
+<img title="TypeScript" width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+<img title="React.js" width="auto" height="30px" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
+<img title="Chakra UI" width="auto" height="30px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true">
+<img title="Redux" width="auto" height="30px" src="https://redux.js.org/img/redux-logo-landscape.png">
+<img title="Node.js" width="auto" height="30px" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
+<img title="SQL" width="auto" height="30px" src="https://www.svgrepo.com/show/117653/sql-file-format.svg">
+<img title="express.js" width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
 <br/>
-<img width="auto" height="30px" title="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
+<img title="C#" width="auto" height="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 
 **Contact:**
 <br>

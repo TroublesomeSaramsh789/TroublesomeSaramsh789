@@ -11,7 +11,6 @@
 <img width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
 <img width="auto" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 <img width="auto" height="30px" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
-<img width="auto" height="30px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg">
 <img width="auto" height="30px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true">
 <img width="auto" height="30px" src="https://redux.js.org/img/redux-logo-landscape.png">
 <img width="auto" height="30px" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">

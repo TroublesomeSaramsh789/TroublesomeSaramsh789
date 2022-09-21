@@ -1,5 +1,5 @@
 # Hello, I'm Saramsh 👋.
-` I'm a self-taught developer who mainly focusing on Next.js, Node & SQL to build scalable applicaitons.`
+` I'm a self-taught developer who is mainly focusing on Next.js, Node & SQL to build scalable applicaitons.`
 <br>
 `I build things for the web and currently open for work and collaborations.`
 > I’m a software developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building appilactions using JavaScript for fullstack.
